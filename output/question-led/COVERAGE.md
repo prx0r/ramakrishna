@@ -1,0 +1,32 @@
+# Coverage
+
+- source: 389 blocks, **82,292 words**
+- used (KEEP): 313 blocks, **77,468 words** (94%) → 14 units
+- unused (CUT): 76 blocks, **4,824 words** (6%)
+- reconciliation: KEEP+CUT = 82,292 = source ✔
+
+## by chapter
+
+| chapter | source | kept | cut |
+|---|---:|---:|---:|
+| CHAPTER I — SRÎ RÂMAKRISHNA AT THE TEMPLE OF DAKSHINESWARA | 2,637 | 1,897 | 740 |
+| CHAPTER II — SRÎ RÂMAKRISHNA WITH HIS DISCIPLES AT THE TEMPLE | 5,548 | 5,548 | 0 |
+| CHAPTER III — THE BHAGAVAN WITH CERTAIN OF HIS HOUSEHOLDER DISCIPLES | 7,621 | 7,621 | 0 |
+| CHAPTER IV — VISIT TO THE PANDIT VIDYASAGARA | 8,043 | 8,031 | 12 |
+| CHAPTER IX — VISIT TO A HINDU PANDIT AND PREACHER | 5,548 | 5,545 | 3 |
+| CHAPTER V — DAY ON THE RIVER WITH KESHAB CHUNDER SEN | 7,281 | 7,226 | 55 |
+| CHAPTER VI — SUNDAY AT THE TEMPLE | 5,142 | 5,073 | 69 |
+| CHAPTER VII — SOME INCIDENTS IN THE LIFE OF SRÎ RÂMA-KRISHNA (AS TOLD BY HIMSELF) | 3,518 | 3,385 | 133 |
+| CHAPTER VIII — FEAST AT THE GARDEN-HOUSE OF SURENDRA | 7,206 | 7,203 | 3 |
+| CHAPTER X — GATHERING OF DISCIPLES AT THE TEMPLE | 5,943 | 5,941 | 2 |
+| CHAPTER XI — Sri Ramakrishna at the Sinti Brahmo- Samaj | 5,727 | 5,725 | 2 |
+| CHAPTER XII — AT THE HOUSE OF BALARAM, A DISCIPLE | 5,867 | 5,863 | 4 |
+| CHAPTER XIII — A DAY AT SHAMPUKUR | 5,995 | 5,995 | 0 |
+| CHAPTER XIV — COSSIPUR GARDEN-HOUSE | 2,420 | 2,415 | 5 |
+| Introduction | 3,796 | 0 | 3,796 |
+
+## by reason
+
+- bio: 3,796 words
+- edit: 288 words
+- scene: 740 words

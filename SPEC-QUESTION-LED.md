@@ -102,3 +102,18 @@ able to see exactly which content was used and what is left over unused.
 - [ ] Keep `EX-SCENE` one-line locators (e.g. "at Dakshineswar") as context, or drop entirely?
 - [ ] Target length cap (if the selection lands long, do we trim to ~4–5 h?)
 - [ ] Order confirmed as source order (vs. grouping by question theme)?
+
+## Outcome 2026-11-14 — delivered as "Complete Sessions"
+
+Measured structure: Ch I–II and IV preserve paragraph breaks (fine-grained
+curation possible); Ch III and V–XIV collapse into 1–3 giant blocks per
+chapter (Ch XI = one 4,442-word block) in the Wikisource transcription.
+
+Therefore the spec's paragraph-level exchange selection is only feasible where
+the transcription preserved breaks. Delivered instead: **Complete Sessions** —
+the 14 chapter sessions intact, minus Abhedananda's biography introduction,
+Ch-I scene bookends, and stray page-marker blocks. 313 KEEP / 76 CUT, exact
+reconciliation, audit trail in `output/question-led/ledger.json`.
+
+The Question-Led compile remains specified above for a future finer
+transcription of Ch III/V–XIV.

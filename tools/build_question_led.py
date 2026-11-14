@@ -122,8 +122,10 @@ def emit(blocks, dec):
         m = re.match(r"^(.{0,80}?[.!?])\s", t)
         return (m.group(1) if m else t[:80]).strip()
 
-    lines = ["# The Gospel of Ramakrishna — Question-Led", "",
-             "*Extract from Abhedananda 1907 (public domain). Source order, whole paragraphs, nothing rewritten.*", ""]
+    lines = ["# The Gospel of Râmakrishna — Complete Sessions", "",
+             "*Extracted from Abhedananda's 1907 edition (public domain). The recorded"
+             " conversations, kept whole and in order; only the editor's biography,"
+             " scene bookends and page markers are omitted. Nothing rewritten.*", ""]
     ledger = []
     for i, (ch, chb) in enumerate(units, 1):
         uid = f"u{i:03d}"

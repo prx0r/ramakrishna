@@ -34,3 +34,15 @@ python3 tools/extract_gospel.py     # writes output/ (uses cache/ when present)
 - Original: *The Gospel of Râmakrishna*, tr. Swami Abhedananda, 1907.
 - **Public domain** (published 1907; Library of Congress confirms).
 - `cache/` (raw HTML) is not committed.
+
+## Build status (2026-11-14)
+
+- Curation complete: 313 KEEP / 76 CUT (29 biography intro, 12 Ch-I scene
+  bookends, 35 stray page-marker blocks). Reconciliation exact.
+- **Delivered: `output/question-led/question-led.md` = Complete Sessions**
+  (14 chapter sessions, 77,468 of 82,292 words). Ch I is hand-trimmed; the
+  source transcription merges most later chapters into 1–3 giant blocks, so
+  paragraph-level Question-Led curation is deferred until a finer
+  transcription exists (see `SPEC-QUESTION-LED.md`).
+- `output/question-led/unused.md` + `COVERAGE.md` + `ledger.json` show
+  exactly what was left out.
